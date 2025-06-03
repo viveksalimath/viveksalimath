@@ -1,5 +1,5 @@
 Hi there! 👋 I'm Vivek Salimath
-I'm a passionate python,css,java introduction and js,Html/Developer, "software developer," "data scientist," "web designer"] with a love for coding and learning new technologies. 🚀
+I'm a passionate python,css,java introduction and js,Html/Developer, "software developer," "data scientist," "web designer" with a love for coding and learning new technologies. 🚀
 
 🔭 Currently working on: Python and Html projects using django in python
 🌱 I’m currently learning: New Python Technologies and very far implementation in all the fildes and currently learning the web designing and the Data analytics..
