@@ -37,11 +37,19 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viveksalimath&show_icons=true&theme=tokyonight" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viveksalimath&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=viveksalimath&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveksalimath&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+    height="170"
+  />
 </p>
 
 ---
