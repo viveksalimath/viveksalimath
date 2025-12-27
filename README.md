@@ -37,29 +37,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=viveksalimath&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveksalimath&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-    height="170"
-  />
-</p>
-
----
-
-### 🏆 Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=viveksalimath&theme=onedark&margin-w=10&margin-h=10&column=6" alt="trophies" />
-</p>
-
----
 
 ### 🌐 Connect with Me  
 <p align="left">
